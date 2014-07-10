@@ -1,0 +1,1 @@
+This is an example so I can show people at a meetup how to publish something on NPM. Feel free to improve it as desired. I don't really consider this a module, yet. Contribute [here](https://github.com/arielspear/compliments), if you're feeling awesome.
